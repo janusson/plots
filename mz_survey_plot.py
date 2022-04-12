@@ -19,3 +19,5 @@ g = sns.jointplot('x', 'y', data=data1,
                   kind='reg', truncate=False,
                 #   xlim=(0, 60), ylim=(0, 12),
                   color='m', height=7)
+
+#TODO use with RT and m/z data
